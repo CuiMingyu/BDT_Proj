@@ -1,27 +1,29 @@
-# Project Title
+# Twitter Analysis
 
-One Paragraph of project description goes here
+A project about Twitter Analysis of Big data course
 
-## Getting Started
+## Goal
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Our goal is to find a more efficient way to figure out Twitter uses who obtain a huge influence on others by using big data techniques.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Python3.5 Tensorflow 
 
 ```
-Give examples
+pip install python3
 ```
 
-### Installing
+### Procedure
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of whole procedure that tell you how to finish Twitter analysis.
 
 Say what the step will be
 
 ```
-Give the example
+1. Prepare dataset. Plan to crawl 10,000 users in Twitter and 100 tweets of each user.
+
+2. Cleaning data and build relation entries of users. Delete some words like 'the', 'a' and some useless blanks. Store user information in database.
 ```
 
 And repeat
