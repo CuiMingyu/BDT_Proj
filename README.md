@@ -6,12 +6,45 @@ A project about Twitter Analysis of Big data course
 
 Our goal is to find a more efficient way to figure out Twitter uses who obtain a huge influence on others by using big data techniques.
 
-### Prerequisites
+### Prerequisites & Reading materials
 
 Python3.5 Tensorflow 
 
 ```
 pip install python3
+```
+
+Some papers
+
+```
+
+SIGMOD
+Robust, Scalable, Real-Time Event Time Series Aggregation at Twitter.
+
+SIGKDD
+Dynamic Embeddings for User Profiling in Twitter. 
+
+ICDE
+Predicting Named Entity Location Using Twitter.
+
+SIGIR
+The Evolution of Content Analysis for Personalized Recommendations at Twitter.
+
+AAAI
+Twitter Summarization Based on Social Network and Sparse Reconstruction.
+Cooperative Multimodal Approach to Depression Detection in Twitter.
+
+IJCAI
+A Comparative Study of Transactional and Semantic Approaches for Predicting Cascades on Twitter.
+Automatic Opioid User Detection from Twitter: Transductive Ensemble Built on Different Meta-graph Based Similarities over Heterogeneous Information Network.
+
+EMNLP
+Exploring Optimism and Pessimism in Twitter Using Deep Learning. 
+Transferring from Formal Newswire Domain with Hypernet for Twitter POS Tagging.
+
+CIKM
+Causal Dependencies for Future Interest Prediction on Twitter. 
+An Effective Approach for Modelling Time Features for Classifying Bursty Topics on Twitter.
 ```
 
 ### Procedure
