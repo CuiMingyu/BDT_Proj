@@ -45,6 +45,26 @@ Transferring from Formal Newswire Domain with Hypernet for Twitter POS Tagging.
 CIKM
 Causal Dependencies for Future Interest Prediction on Twitter. 
 An Effective Approach for Modelling Time Features for Classifying Bursty Topics on Twitter.
+
+ACL
+ClaimPortal: Integrated Monitoring, Searching, Checking, and Analytics of Factual Claims on Twitter
+A web server monitoring real things in twitter.
+
+Multi-Modal Sarcasm Detection in Twitter with Hierarchical Fusion Model
+Sarcasm detection by triple models.
+
+Twitter Homophily: Network Based Prediction of User’s Occupation
+Using GCN to exploit homophily to predict occupation.
+
+Categorizing and Inferring the Relationship between the Text and Image of Twitter Posts
+Judge four relationships of image and text.
+
+```
+
+```
+Idea:
+Based on tweets to decide whether a user has potential depression.
+```
 ```
 
 ### Procedure
