@@ -16,6 +16,7 @@ pip install python3
 
 Some papers
 
+#### Cooperative Multimodal Approach to Depression Detection in Twitter.
 ```
 
 SIGMOD
@@ -32,7 +33,6 @@ The Evolution of Content Analysis for Personalized Recommendations at Twitter.
 
 AAAI
 Twitter Summarization Based on Social Network and Sparse Reconstruction.
-Cooperative Multimodal Approach to Depression Detection in Twitter.
 
 IJCAI
 A Comparative Study of Transactional and Semantic Approaches for Predicting Cascades on Twitter.
@@ -109,15 +109,15 @@ Dec. 3 Proj pre
 
 ### Oct. 19 - 28 (Combining week & runing model)
 
-We need to combine all code and fix bugs.
+1. We need to combine all code and fix bugs.
 
 ### Oct. 29 - Nov. 5 (Writing week)
 
-Writing proposal.
+1. Writing proposal.
 
 ### Nov. 6 -
 
-Find tricks which can improve our performances.
+1. Find tricks which can improve our performances.
 
 
 
