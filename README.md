@@ -92,14 +92,14 @@ Dec. 3 Proj pre
 
 ## Timeline of our progress
 
-* # Oct. 5 - 11 (researching week & running models)
+* ### Oct. 5 - 11 (researching week & running models)
 
 1. Crawl data : 2 person (needs same as the aaai paper data format)
 2. text model : 1 per
 3. graph model : 1 per
 4. follower/following : 1 per
 
-* Oct. 12 - 18 (coding week & combining code)
+* ###Oct. 12 - 18 (coding week & combining code)
 
 1. Data part : Washing data &  Splicing data format (1 per)
 2. Define api : 1 per
@@ -107,15 +107,15 @@ Dec. 3 Proj pre
 4. Graph model coding : 1 per 
 5. Follower/following coding : 1 per
 
-* Oct. 19 - 28 (Combining week & runing model)
+* ###Oct. 19 - 28 (Combining week & runing model)
 
 We need to combine all code and fix bugs.
 
-* Oct. 29 - Nov. 5 (Writing week)
+* ###Oct. 29 - Nov. 5 (Writing week)
 
 Writing proposal.
 
-* Nov. 6 -
+* ###Nov. 6 -
 
 Find tricks which can improve our performances.
 
