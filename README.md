@@ -94,10 +94,10 @@ Dec. 3 Proj pre
 
 ### Oct. 5 - 11 (researching week & running models)
 
-1. Crawl data : 2 person (needs same as the aaai paper data format)
-2. text model : 1 per
-3. graph model : 1 per
-4. follower/following : 1 per
+1. Crawl data : 2 person (needs same as the aaai paper data format) **Cui Xu**
+2. text model : 1 per **Liu Yanyan**
+3. graph model : 1 per **Li Zenan**
+4. follower/following : 1 per **Su Linyin**
 
 ### Oct. 12 - 18 (coding week & combining code)
 
