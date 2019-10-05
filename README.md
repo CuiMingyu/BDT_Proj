@@ -8,7 +8,7 @@ Our goal is to find a more efficient way to figure out Twitter uses who obtain a
 
 ### Prerequisites & Reading materials
 
-Python3.5 Tensorflow 
+Python3.5 Tensorflow TWINT
 
 ```
 pip install python3
@@ -59,11 +59,17 @@ Using GCN to exploit homophily to predict occupation.
 Categorizing and Inferring the Relationship between the Text and Image of Twitter Posts
 Judge four relationships of image and text.
 
+EMNLP
+Exploring Optimism and Pessimism in Twitter Using Deep Learning
+
+NAACL
+Deep Learning for Depression Detection of Twitter Users.
+Only consider text of users which have completely dataset.
 ```
 
 ```
-Idea:
-Based on tweets to decide whether a user has potential depression.
+Main Idea:
+Based on user's actions and tweets to decide whether a user has potential depression.
 ```
 ```
 
@@ -71,45 +77,13 @@ Based on tweets to decide whether a user has potential depression.
 
 A step by step series of whole procedure that tell you how to finish Twitter analysis.
 
-Say what the step will be
+
 
 ```
-1. Prepare dataset. Plan to crawl 10,000 users in Twitter and 100 tweets of each user.
+1. Prepare dataset. Plan to crawl 10,000 users in Twitter and 100 tweets of each user and 'following & follower' of each user.
 
 2. Cleaning data and build relation entries of users. Delete some words like 'the', 'a' and some useless blanks. Store user information in database.
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -127,9 +101,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Cui Mingyu ** 
+* **Li Zenan **
+* **Liu Yanyan**
+* **Su Linyin**
+* **Xu Jiangyue**
 
 ## License
 
@@ -138,6 +114,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* We need pay more attention on those who has a depression experience.
 
