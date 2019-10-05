@@ -96,8 +96,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Cui Mingyu ** 
-* **Li Zenan **
+* **Cui Mingyu** 
+* **Li Zenan**
 * **Liu Yanyan**
 * **Su Linyin**
 * **Xu Jiangyue**
@@ -109,5 +109,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* We need pay more attention on those who has a depression experience.
+* Inspiration: We need pay more attention on those who has a depression experience.
 
