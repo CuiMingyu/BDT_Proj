@@ -92,7 +92,7 @@ Dec. 3 Proj pre
 
 ## Timeline of our progress
 
-* #Oct. 5 - 11 (researching week & running models)
+* # Oct. 5 - 11 (researching week & running models)
 
 1. Crawl data : 2 person (needs same as the aaai paper data format)
 2. text model : 1 per
