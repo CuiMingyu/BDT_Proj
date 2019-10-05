@@ -71,7 +71,7 @@ Only consider text of users which have completely dataset.
 Main Idea:
 Based on user's actions and tweets to decide whether a user has potential depression.
 ```
-```
+
 
 ### Procedure
 
@@ -85,11 +85,6 @@ A step by step series of whole procedure that tell you how to finish Twitter ana
 2. Cleaning data and build relation entries of users. Delete some words like 'the', 'a' and some useless blanks. Store user information in database.
 ```
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
